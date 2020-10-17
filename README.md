@@ -13,9 +13,7 @@ ONLY USE THIS LANGUAGE, AFTER YOU HAVE STUDIED THE C++ VERSION.
 ## C++
 Code related to C++. I do not use this coding language often in interview due to the heavy syntax. Currently my favorite language, due to the robust
 and open hood style. Extremeley useful to understand important concepts such as memory allocation, freeing memory, pointers, and object oriented programming.
-
-## PDF Resources
-Useful PDFs that teaches about algorithms.
+.
 
 ## NOTE
 I study mainly from *Cracking the Coding Interview* by Gayle Laakmann McDowell. 
