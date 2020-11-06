@@ -73,3 +73,11 @@ def oneAway(str1, str2):
 
 oneAway("abcdefghi", "bcdefghi")
 
+test_array = "helloworld"
+
+def modifyArray(arr):
+    
+    arr.pop(3)
+    return
+modifyArray(test_array)
+print(test_array)
